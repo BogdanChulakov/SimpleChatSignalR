@@ -201,3 +201,4 @@ C:\Users\user\Desktop\SimpleChat\ChatSignalR\obj\Debug\netcoreapp3.1\ChatSignalR
 C:\Users\user\Desktop\SimpleChat\ChatSignalR\obj\Debug\netcoreapp3.1\ChatSignalR.dll
 C:\Users\user\Desktop\SimpleChat\ChatSignalR\obj\Debug\netcoreapp3.1\ChatSignalR.pdb
 C:\Users\user\Desktop\SimpleChat\ChatSignalR\obj\Debug\netcoreapp3.1\ChatSignalR.genruntimeconfig.cache
+C:\Users\user\Desktop\SimpleChat\ChatSignalR\bin\Debug\netcoreapp3.1\libman.json
