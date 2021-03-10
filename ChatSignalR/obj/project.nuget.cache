@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V+qjOg6DmEia99ECkztvwW6VDuH6Kvn2k4d3jpofA+N15UYL9cTrRUaFhIs2pMgTmOhj057GUBjSLyxJ0wlaEA==",
+  "dgSpecHash": "pzJXmYFrrGViplvETDBzk2cmwn+Esf8S3p6KgIBokGRwYYuEz3aQOEhzNpUZSb1CLi9yYctz4W2mvJVvhio0jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\ChatSignalR\\ChatSignalR\\ChatSignalR.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\SimpleChat\\ChatSignalR\\ChatSignalR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.3\\microsoft.aspnetcore.connections.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",

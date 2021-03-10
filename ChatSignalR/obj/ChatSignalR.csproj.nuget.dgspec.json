@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\ChatSignalR\\ChatSignalR\\ChatSignalR.csproj": {}
+    "C:\\Users\\user\\Desktop\\SimpleChat\\ChatSignalR\\ChatSignalR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\ChatSignalR\\ChatSignalR\\ChatSignalR.csproj": {
+    "C:\\Users\\user\\Desktop\\SimpleChat\\ChatSignalR\\ChatSignalR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\ChatSignalR\\ChatSignalR\\ChatSignalR.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\SimpleChat\\ChatSignalR\\ChatSignalR.csproj",
         "projectName": "ChatSignalR",
-        "projectPath": "C:\\Users\\user\\source\\repos\\ChatSignalR\\ChatSignalR\\ChatSignalR.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\SimpleChat\\ChatSignalR\\ChatSignalR.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\ChatSignalR\\ChatSignalR\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\SimpleChat\\ChatSignalR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
